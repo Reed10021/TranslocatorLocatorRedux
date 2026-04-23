@@ -6,10 +6,10 @@
   "side": "Universal",
   "requiredOnClient": true,
   "requiredOnServer": true,
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Adds craftable locators to locate translocators. And ruins.",
   "authors": [ "Asraiel", "Reed10021" ],
   "dependencies": {
-    "game": "1.21.0"
+    "game": "1.22.0"
   }
 }
